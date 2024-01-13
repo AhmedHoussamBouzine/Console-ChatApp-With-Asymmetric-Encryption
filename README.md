@@ -7,7 +7,7 @@ This repository contains a simple Java implementation of a secure chat applicati
 - [Features](#Features)
 - [Dependencies](#Dependencies)
 - [Notes](#Notes)
-- [Future Improvements](#Future Improvements)
+- [Future Improvements](#Future-Improvements)
 
 
 
