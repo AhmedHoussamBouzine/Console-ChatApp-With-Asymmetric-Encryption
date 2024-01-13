@@ -31,6 +31,6 @@ The application relies on Java's cryptography libraries for key generation, key 
 ## Future Improvements
 
 - **Implement GUI for Better User Experience:** Enhance the user interface by adding a graphical user interface (GUI) for a more intuitive and user-friendly experience.
-- **Add Sockets and Threads for Instant Communication:**Integrate socket programming and multithreading to enable instant communication between users. This will improve the real-time nature of the chat application
+- **Add Sockets and Threads for Instant Communication:** Integrate socket programming and multithreading to enable instant communication between users. This will improve the real-time nature of the chat application
 
 Happy chatting!
